@@ -66,4 +66,3 @@ La aplicación permite realizar consultas a la PokeAPI, procesar la información
 
 ## 9. Autor
 María Alejandra Pérez Banquez  
-Técnico Profesional en Programación de Computadoras
