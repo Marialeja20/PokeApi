@@ -28,7 +28,7 @@ PokeApi/
 ├── requisitos.txt # Dependencias del proyecto
 ├── .gitignore # Archivos ignorados por Git
 
----
+
 
 ## 5. API utilizada
 - **Nombre:** PokeAPI  
@@ -49,28 +49,23 @@ PokeApi/
 ```bash
 git clone https://github.com/Marialeja20/PokeApi.git
 Acceder al directorio del proyecto:
-
+```bash
+git clone https://github.com/Marialeja20/PokeApi.git
+2. Acceder al directorio del proyecto:
 cd PokeApi
-
-
-Crear y activar el entorno virtual:
-
+3. Crear y activar el entorno virtual:
 python -m venv venv
 .\venv\Scripts\activate
-
-
-Instalar dependencias:
-
+4. Instalar dependencias:
 pip install -r requisitos.txt
-Ejecutar la aplicación:
-
+5. Ejecutar la aplicación:
 python principal.py
 
-8. Funcionalidad del sistema
-
+## 8. Funcionalidad del sistema
 La aplicación permite realizar consultas a la PokeAPI, procesar la información obtenida y gestionarla mediante una estructura modular que facilita el mantenimiento y la escalabilidad del proyecto.
 
-9. Autor
+## 9. Autor
+María Alejandra Pérez Banquez  
 
-María Alejandra Pérez Banquez
-Técnico Profesional en Programación de Computadoras
+
+
