@@ -43,21 +43,21 @@ PokeApi/
 - Librerías indicadas en el archivo `requisitos.txt`
 
 ---
-
 ## 7. Instalación y ejecución
+
 1. Clonar el repositorio:
-```bash
 git clone https://github.com/Marialeja20/PokeApi.git
-Acceder al directorio del proyecto:
-```bash
-git clone https://github.com/Marialeja20/PokeApi.git
+
 2. Acceder al directorio del proyecto:
 cd PokeApi
+
 3. Crear y activar el entorno virtual:
 python -m venv venv
 .\venv\Scripts\activate
+
 4. Instalar dependencias:
 pip install -r requisitos.txt
+
 5. Ejecutar la aplicación:
 python principal.py
 
@@ -66,6 +66,4 @@ La aplicación permite realizar consultas a la PokeAPI, procesar la información
 
 ## 9. Autor
 María Alejandra Pérez Banquez  
-
-
-
+Técnico Profesional en Programación de Computadoras
